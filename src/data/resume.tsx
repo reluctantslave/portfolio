@@ -3,12 +3,12 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
   name: "Friza",
-  initials: "DV",
-  url: "https://dillion.io",
+  initials: "MF",
+  url: "https://reluctantslave.com/",
   location: "Palembang, South Sumatera",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "Mentor at Bangkit Academy 2024 | Founder of PondPedia | Team Leader and Web Developer at PondPedia | Fresh Graduate at Universitas Sriwijaya",
+    "Student Mentor at Bangkit Academy 2024 | Founder of PondPedia | Team Leader and Web Developer at PondPedia",
   summary:
     "I graduated with a Bachelor's degree in Computer Science. During my time at university, I was really active to seek life-flourishing opportunities and consequently found myself in the world where I met many like-minded people from around the place and build incredible things along the way. I have a wide range of responsibilities in many projects, from full-stack web developer, machine learning engineer, project manager, student mentor, to a CEO for still-in-idea-phase Google-incubated startup.",
   avatarUrl: "/me.png",
@@ -80,22 +80,10 @@ export const DATA = {
       location: "Remote",
       title: "Student Mentor",
       logoUrl: "/bangkit.jpg",
-      start: "September 2024",
+      start: "February 2024",
       end: "Now",
       description:
-        "Currently contributing as a mentor in one of the machine learning class (ML-70) at Bangkit Academy 2024 Batch 2.",
-    },
-    {
-      company: "Bangkit Academy",
-      href: "https://grow.google/intl/id_id/bangkit/?tab=machine-learning",
-      badges: [],
-      location: "Remote",
-      title: "Student Mentor",
-      logoUrl: "/bangkit.jpg",
-      start: "Feb 2024",
-      end: "Jul 2024",
-      description:
-        "Have contributed as a mentor in one of the machine learning class (ML-45) at Bangkit Academy 2024 Batch 1 and with 100% of them have successfully graduated.",
+        "Have contributed as a mentor in one of the machine learning class (ML-45) at Bangkit Academy 2024 Batch 1 and with 100% of them have successfully graduated. I am currently contributing as a mentor in one of the machine learning class (ML-70) at Bangkit Academy 2024 Batch 2.",
     },
     {
       company: "PondPedia",
@@ -210,25 +198,30 @@ export const DATA = {
       video: "",
     },
     {
-      title: "TensorFlow Developer Certificate",
-      href: "https://www.credential.net/e27e4a7f-d20d-49ef-acfb-478308c178a5",
-      dates: "Issued: Dec 2023",
+      title: "Bangkit Academy Top 20 Best Capstone Project",
+      href: "https://drive.google.com/file/d/1q8lJvvj_QiJpoil0M7Xqz-nIEFxHs9p1/view",
+      dates: "Issued: Jul 2023",
       active: true,
       description:
         "",
       technologies: [
         "Machine Learning",
-        "Python",
+        "Data Analytics",
         "Tensorflow",
+        "Python",
+        "Project Management",
+        "Business Strategy",
+        "Team Leadership",
+        "Google Cloud"
       ],
       links: [
         {
           type: "Show Credentials",
-          href: "https://www.credential.net/e27e4a7f-d20d-49ef-acfb-478308c178a5",
+          href: "https://drive.google.com/file/d/1q8lJvvj_QiJpoil0M7Xqz-nIEFxHs9p1/view",
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/tensorflow.jpg",
+      image: "/top_20.jpg",
       video: ""
     },
     {
@@ -259,30 +252,25 @@ export const DATA = {
       video: ""
     },
     {
-      title: "Bangkit Academy Top 20 Best Capstone Project",
-      href: "https://drive.google.com/file/d/1q8lJvvj_QiJpoil0M7Xqz-nIEFxHs9p1/view",
-      dates: "Issued: Jul 2023",
+      title: "TensorFlow Developer Certificate",
+      href: "https://www.credential.net/e27e4a7f-d20d-49ef-acfb-478308c178a5",
+      dates: "Issued: Dec 2023",
       active: true,
       description:
         "",
       technologies: [
         "Machine Learning",
-        "Data Analytics",
-        "Tensorflow",
         "Python",
-        "Project Management",
-        "Business Strategy",
-        "Team Leadership",
-        "Google Cloud"
+        "Tensorflow",
       ],
       links: [
         {
           type: "Show Credentials",
-          href: "https://drive.google.com/file/d/1q8lJvvj_QiJpoil0M7Xqz-nIEFxHs9p1/view",
+          href: "https://www.credential.net/e27e4a7f-d20d-49ef-acfb-478308c178a5",
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/top_20.jpg",
+      image: "/tensorflow.jpg",
       video: ""
     },
     {

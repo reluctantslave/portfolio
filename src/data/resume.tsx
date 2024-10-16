@@ -8,9 +8,9 @@ export const DATA = {
   location: "Palembang, South Sumatera",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "Student Mentor at Bangkit Academy 2024 | Founder of PondPedia | Team Leader and Web Developer at PondPedia",
+    "Student Mentor at Bangkit Academy | Team Leader and Web Developer at PondPedia",
   summary:
-    "I graduated with a Bachelor's degree in Computer Science. During my time at university, I was really active to seek life-flourishing opportunities and consequently found myself in the world where I met many like-minded people from around the place and build incredible things along the way. I have a wide range of responsibilities in many projects, from full-stack web developer, machine learning engineer, project manager, student mentor, to a CEO for still-in-idea-phase Google-incubated startup.",
+    "I graduated with a Bachelor's degree in Computer Science. During my time at university, I was really active to seek life-flourishing opportunities and consequently found myself in the world where I met many like-minded people from around the place and build incredible things along the way. Experience in diverse roles, from full-stack web developer, machine learning engineer, project manager, student mentor, to the team leader for still-in-idea-phase Google-incubated team.",
   avatarUrl: "/me.png",
   technical_skills: [
     "React",
@@ -90,10 +90,10 @@ export const DATA = {
       href: "https://pondpedia.com",
       badges: [],
       location: "Malang, East Java",
-      title: "Chief Everything Officer (CEO)",
+      title: "Team Leader",
       logoUrl: "/pondpedia.png",
-      start: "August 2023",
-      end: "Now",
+      start: "Aug 2023",
+      end: "Feb 2024",
       description:
         "Part of a team that has been selected as Top 20 product-based capstone team and get a chance to enter The Incubation program held by Bangkit Academy 2023. Currently I have been held as the leader and be responsible for the direction of this team in the future, wore so many 'hats' (Responsibility) at the same time and will continue on to do so.",
     },

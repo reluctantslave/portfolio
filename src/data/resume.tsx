@@ -419,6 +419,23 @@ export const DATA = {
   ],
   miscs: [
     {
+      title: "Moderator for Bangkit Guest Speaker Session #3",
+      href: "https://www.youtube.com/watch?v=rkldn8CKZcM",
+      dates: "Issued: October 2024",
+      active: true,
+      description:
+        'Have contributed as a moderator in The Bangkit Guest Speaker Session #3 "Startup Secrets: How to Scale from Zero to Hero".',
+      links: [
+        {
+          type: "Show Credentials",
+          href: "https://www.youtube.com/watch?v=rkldn8CKZcM",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/gss_2.jpg",
+      video: "",
+    },
+    {
       title: "Special Award from The Dean of The Unsri's Faculty of Computer Science",
       href: "https://www.youtube.com/live/e772iWAtczU?si=vdL94eQbjUD22uRy&t=4822",
       dates: "Issued: Aug 2024",
@@ -436,7 +453,7 @@ export const DATA = {
       video: "",
     },
     {
-      title: "Moderator for Bangkit Guest Speaker Session",
+      title: "Moderator for Bangkit Guest Speaker Session #7",
       href: "https://www.youtube.com/watch?v=aPovq2N2sSU",
       dates: "Issued: May 2024",
       active: true,

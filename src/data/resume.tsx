@@ -168,6 +168,32 @@ export const DATA = {
       video: "",
     },
     {
+      title: "Bangkit Academy 2024 Batch 2 Mentor",
+      href: "https://drive.google.com/file/d/14-GoTyC-StYA_Tj84M_6V4lIY2RoTHPC/view?usp=sharing",
+      dates: "Issued: Feb 2025",
+      active: true,
+      description:
+        "",
+      technologies: [
+        "Mentoring",
+        "Google Cloud",
+        "Machine Learning",
+        "Python",
+        "Team Leadership",
+        "Mentoring",
+        "Project Management",
+      ],
+      links: [
+        {
+          type: "Show Credentials",
+          href: "https://drive.google.com/file/d/14MwAhHG5Qd3j5CIwkQ-CAka4A-Q7m6EX/view",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/mentoring_3.jpg",
+      video: "",
+    },
+    {
       title: "Bangkit Academy 2023 Batch 1 Incubation",
       href: "https://drive.google.com/file/d/1q8lJvvj_QiJpoil0M7Xqz-nIEFxHs9p1/view",
       dates: "Issued: Feb 2024",

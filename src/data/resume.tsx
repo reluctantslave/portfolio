@@ -300,6 +300,31 @@ export const DATA = {
       video: ""
     },
     {
+      title: "Google Project Management",
+      href: "https://www.coursera.org/account/accomplishments/professional-cert/ATK9CLALDHLX?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof",
+      dates: "Issued: Dec 2024",
+      active: true,
+      description:
+        "",
+      technologies: [
+        "Project Management",
+        "Team Leadership",
+        "Planning",
+        "Asana",
+        "Business Strategy",
+        "Collaboration",
+      ],
+      links: [
+        {
+          type: "Show Credentials",
+          href: "https://www.coursera.org/account/accomplishments/professional-cert/ATK9CLALDHLX?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/google_project_management.jpeg",
+      video: ""
+    },
+    {
       title: "DeepLearning.AI TensorFlow Developer Specialization",
       href: "https://www.coursera.org/account/accomplishments/specialization/5G665CER6GWF",
       dates: "Issued: May 2023",
